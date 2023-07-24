@@ -1,0 +1,40 @@
+{
+  "name": "sport-mania-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmsalSugihan/sport-mania-be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^1.38.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.45.0",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.4",
+    "prettier": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/AmsalSugihan/sport-mania-be/issues"
+  },
+  "homepage": "https://github.com/AmsalSugihan/sport-mania-be#readme"
+}
